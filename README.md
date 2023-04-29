@@ -1,3 +1,4 @@
 # Financeiro_2023
 
-Sistema Financeiro de estudo em .Net 7.0
+Exercicio de estudo de sistema financeiro em .Net 7.0
+
